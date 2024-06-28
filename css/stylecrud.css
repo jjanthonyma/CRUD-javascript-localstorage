@@ -1,0 +1,11 @@
+body{
+    background: rgb(54, 53, 53);
+}
+
+*{
+    color: white;
+}
+
+#btnUpdate{
+    display: none;
+}
